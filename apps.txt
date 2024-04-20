@@ -1,0 +1,7 @@
+terminal : alacritty tmux nvim micro bat stow gum glow httpie tldr
+utils : vlc ark synthing sxiv font-manager
+code : sublime code virtualbox distrobox virtual-guest-box  
+app : obsidian mailspring logseq leafpad
+internet : brave-bin firefox tor chromium telegram-desktop fragments
+tech : rustup docker nodejs yarn pnpm pip3 npm vagrant bun mongodb-bin mongodb-compass-beata-bin 
+security : keepass ventoy mullvad kdeconnect bitwarden notesnook 
